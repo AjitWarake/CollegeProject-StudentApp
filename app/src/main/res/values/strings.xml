@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Student App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="about_college">Chhatrapati Shahu Institute of Business Education and Research (CSIBER), Kolhapur, Maharashtra was established in 1976. It is a private institute, recognized by UGC and affiliated to Shivaji University. It has been accredited A+ by NAAC. It offers full-time PG courses such as MBA, MCA, M.Sc, MSW, M.Com and a PG Diploma. Additionally, CSIBER also offers M.Phil at the Research level. Admission is either based on merit or an entrance examination.</string>
+</resources>
